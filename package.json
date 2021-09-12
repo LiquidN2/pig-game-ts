@@ -1,0 +1,13 @@
+{
+  "name": "pig-game-ts",
+  "packageManager": "yarn@3.0.2",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel --no-cache",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-nightly.1981",
+    "parcel": "^2.0.0-rc.0"
+  }
+}
